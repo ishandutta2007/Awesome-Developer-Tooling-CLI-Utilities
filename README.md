@@ -69,94 +69,94 @@ Below is the breakdown of leading hosted platforms and commercial developer tool
 
 Every open-source powerhouse below includes a live stargazer badge linking directly to the repository's stargazers page:
 
-1. **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** [![GitHub stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)  
+1. **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** [![GitHub_Stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)  
    *Locally hosted one-stop Swiss-army knife web application handling every PDF merge, split, OCR, and conversion task without telemetry.* 📄
 
-2. **[junegunn/fzf](https://github.com/junegunn/fzf)** [![GitHub stars](https://img.shields.io/github/stars/junegunn/fzf?style=social&color=white)](https://github.com/junegunn/fzf/stargazers)  
+2. **[junegunn/fzf](https://github.com/junegunn/fzf)** [![GitHub_Stars](https://img.shields.io/github/stars/junegunn/fzf?style=social&color=white)](https://github.com/junegunn/fzf/stargazers)  
    *Blazing-fast interactive command-line fuzzy finder written in Go, universally composable with any shell pipeline or text editor.* 🔍
 
-3. **[jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)** [![GitHub stars](https://img.shields.io/github/stars/jesseduffield/lazygit?style=social&color=white)](https://github.com/jesseduffield/lazygit/stargazers)  
+3. **[jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)** [![GitHub_Stars](https://img.shields.io/github/stars/jesseduffield/lazygit?style=social&color=white)](https://github.com/jesseduffield/lazygit/stargazers)  
    *Simple yet powerful terminal UI for Git commands, resolving merge conflicts, staging hunks, and rebasing interactively.* 🐙
 
-4. **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** [![GitHub stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=social&color=white)](https://github.com/BurntSushi/ripgrep/stargazers)  
+4. **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** [![GitHub_Stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=social&color=white)](https://github.com/BurntSushi/ripgrep/stargazers)  
    *Ultra-fast line-oriented search tool written in Rust that recursively searches directories for regex patterns while honoring `.gitignore` rules.* ⚡
 
-5. **[sharkdp/bat](https://github.com/sharkdp/bat)** [![GitHub stars](https://img.shields.io/github/stars/sharkdp/bat?style=social&color=white)](https://github.com/sharkdp/bat/stargazers)  
+5. **[sharkdp/bat](https://github.com/sharkdp/bat)** [![GitHub_Stars](https://img.shields.io/github/stars/sharkdp/bat?style=social&color=white)](https://github.com/sharkdp/bat/stargazers)  
    *Modern `cat` clone with syntax highlighting, Git integration gutters, automatic paging, and rich file-type awareness.* 🦇
 
-6. **[starship/starship](https://github.com/starship/starship)** [![GitHub stars](https://img.shields.io/github/stars/starship/starship?style=social&color=white)](https://github.com/starship/starship/stargazers)  
+6. **[starship/starship](https://github.com/starship/starship)** [![GitHub_Stars](https://img.shields.io/github/stars/starship/starship?style=social&color=white)](https://github.com/starship/starship/stargazers)  
    *The minimal, blazing-fast, and infinitely customizable cross-shell prompt for any interpreter (Bash, Zsh, Fish, PowerShell).* 🚀
 
-7. **[sharkdp/fd](https://github.com/sharkdp/fd)** [![GitHub stars](https://img.shields.io/github/stars/sharkdp/fd?style=social&color=white)](https://github.com/sharkdp/fd/stargazers)  
+7. **[sharkdp/fd](https://github.com/sharkdp/fd)** [![GitHub_Stars](https://img.shields.io/github/stars/sharkdp/fd?style=social&color=white)](https://github.com/sharkdp/fd/stargazers)  
    *Simple, fast, and user-friendly alternative to `find`, featuring intuitive syntax, regex search, colorized output, and parallel execution.* 📁
 
-8. **[CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)** [![GitHub stars](https://img.shields.io/github/stars/CorentinTh/it-tools?style=social&color=white)](https://github.com/CorentinTh/it-tools/stargazers)  
+8. **[CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)** [![GitHub_Stars](https://img.shields.io/github/stars/CorentinTh/it-tools?style=social&color=white)](https://github.com/CorentinTh/it-tools/stargazers)  
    *Handy self-hosted collection of 80+ online tools for developers (JWT parsers, Docker Compose converters, UUIDs, hashers, cron generators) built with Vue 3.* 🧰
 
-9. **[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)** [![GitHub stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=social&color=white)](https://github.com/ajeetdsouza/zoxide/stargazers)  
+9. **[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)** [![GitHub_Stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=social&color=white)](https://github.com/ajeetdsouza/zoxide/stargazers)  
    *Smarter `cd` command inspired by z and autojump, learning your habits to navigate deep directory structures with minimal keystrokes.* ⚡
 
-10. **[httpie/cli](https://github.com/httpie/cli)** [![GitHub stars](https://img.shields.io/github/stars/httpie/cli?style=social&color=white)](https://github.com/httpie/cli/stargazers)  
+10. **[httpie/cli](https://github.com/httpie/cli)** [![GitHub_Stars](https://img.shields.io/github/stars/httpie/cli?style=social&color=white)](https://github.com/httpie/cli/stargazers)  
     *User-friendly, modern command-line HTTP client with intuitive UI, JSON support, colorized terminal output, and persistent sessions.* 🥧
 
-11. **[gchq/CyberChef](https://github.com/gchq/CyberChef)** [![GitHub stars](https://img.shields.io/github/stars/gchq/CyberChef?style=social&color=white)](https://github.com/gchq/CyberChef/stargazers)  
+11. **[gchq/CyberChef](https://github.com/gchq/CyberChef)** [![GitHub_Stars](https://img.shields.io/github/stars/gchq/CyberChef?style=social&color=white)](https://github.com/gchq/CyberChef/stargazers)  
     *The Cyber Swiss Army Knife: browser-based utility for encryption, encoding, compression, and chained recipe data analysis running 100% client-side.* 🍳
 
-12. **[jqlang/jq](https://github.com/jqlang/jq)** [![GitHub stars](https://img.shields.io/github/stars/jqlang/jq?style=social&color=white)](https://github.com/jqlang/jq/stargazers)  
+12. **[jqlang/jq](https://github.com/jqlang/jq)** [![GitHub_Stars](https://img.shields.io/github/stars/jqlang/jq?style=social&color=white)](https://github.com/jqlang/jq/stargazers)  
     *Lightweight and flexible command-line JSON processor: the `sed` for JSON data to slice, filter, map, and transform structures in shell pipelines.* 💎
 
-13. **[dandavison/delta](https://github.com/dandavison/delta)** [![GitHub stars](https://img.shields.io/github/stars/dandavison/delta?style=social&color=white)](https://github.com/dandavison/delta/stargazers)  
+13. **[dandavison/delta](https://github.com/dandavison/delta)** [![GitHub_Stars](https://img.shields.io/github/stars/dandavison/delta?style=social&color=white)](https://github.com/dandavison/delta/stargazers)  
     *Syntax-highlighting pager for Git, diff, and grep output featuring side-by-side view, line numbers, and Git blame inspection.* 🎨
 
-14. **[atuinsh/atuin](https://github.com/atuinsh/atuin)** [![GitHub stars](https://img.shields.io/github/stars/atuinsh/atuin?style=social&color=white)](https://github.com/atuinsh/atuin/stargazers)  
+14. **[atuinsh/atuin](https://github.com/atuinsh/atuin)** [![GitHub_Stars](https://img.shields.io/github/stars/atuinsh/atuin?style=social&color=white)](https://github.com/atuinsh/atuin/stargazers)  
     *Magical shell history replacement storing commands in a SQLite database with end-to-end encrypted sync and contextual search.* 🐢
 
-15. **[DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)** [![GitHub stars](https://img.shields.io/github/stars/DevToys-app/DevToys?style=social&color=white)](https://github.com/DevToys-app/DevToys/stargazers)  
+15. **[DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)** [![GitHub_Stars](https://img.shields.io/github/stars/DevToys-app/DevToys?style=social&color=white)](https://github.com/DevToys-app/DevToys/stargazers)  
     *Cross-platform offline Swiss-army knife for developers (Windows, macOS, Linux, CLI) with smart clipboard detection and 30+ utilities.* 🧸
 
-16. **[sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)** [![GitHub stars](https://img.shields.io/github/stars/sharkdp/hyperfine?style=social&color=white)](https://github.com/sharkdp/hyperfine/stargazers)  
+16. **[sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)** [![GitHub_Stars](https://img.shields.io/github/stars/sharkdp/hyperfine?style=social&color=white)](https://github.com/sharkdp/hyperfine/stargazers)  
     *Command-line benchmarking tool featuring statistical analysis, warmup runs, shell parameter export, and outlier detection.* ⏱️
 
-17. **[Wilfred/difftastic](https://github.com/Wilfred/difftastic)** [![GitHub stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=social&color=white)](https://github.com/Wilfred/difftastic/stargazers)  
+17. **[Wilfred/difftastic](https://github.com/Wilfred/difftastic)** [![GitHub_Stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=social&color=white)](https://github.com/Wilfred/difftastic/stargazers)  
     *Structural diff tool that compares files based on their syntax tree (using Tree-sitter) rather than line-by-line text differences.* 🌲
 
-18. **[eza-community/eza](https://github.com/eza-community/eza)** [![GitHub stars](https://img.shields.io/github/stars/eza-community/eza?style=social&color=white)](https://github.com/eza-community/eza/stargazers)  
+18. **[eza-community/eza](https://github.com/eza-community/eza)** [![GitHub_Stars](https://img.shields.io/github/stars/eza-community/eza?style=social&color=white)](https://github.com/eza-community/eza/stargazers)  
     *Modern, actively maintained replacement for `ls` featuring Git status integration, extended file attributes, icons, and tree layouts.* 🌳
 
-19. **[antonmedv/fx](https://github.com/antonmedv/fx)** [![GitHub stars](https://img.shields.io/github/stars/antonmedv/fx?style=social&color=white)](https://github.com/antonmedv/fx/stargazers)  
+19. **[antonmedv/fx](https://github.com/antonmedv/fx)** [![GitHub_Stars](https://img.shields.io/github/stars/antonmedv/fx?style=social&color=white)](https://github.com/antonmedv/fx/stargazers)  
     *Interactive command-line JSON viewer and processor with folding, search, fuzzy matching, and live JavaScript/jq filtering.* 🪄
 
-20. **[denisidoro/navi](https://github.com/denisidoro/navi)** [![GitHub stars](https://img.shields.io/github/stars/denisidoro/navi?style=social&color=white)](https://github.com/denisidoro/navi/stargazers)  
+20. **[denisidoro/navi](https://github.com/denisidoro/navi)** [![GitHub_Stars](https://img.shields.io/github/stars/denisidoro/navi?style=social&color=white)](https://github.com/denisidoro/navi/stargazers)  
     *Interactive cheatsheet tool for the command line with parameterized snippet execution and fuzzy auto-fill.* 🧭
 
-21. **[ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)** [![GitHub stars](https://img.shields.io/github/stars/ast-grep/ast-grep?style=social&color=white)](https://github.com/ast-grep/ast-grep/stargazers)  
+21. **[ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)** [![GitHub_Stars](https://img.shields.io/github/stars/ast-grep/ast-grep?style=social&color=white)](https://github.com/ast-grep/ast-grep/stargazers)  
     *CLI tool for structural code search, linting, and rewriting using Abstract Syntax Trees across multiple programming languages.* ⚡
 
-22. **[mikefarah/yq](https://github.com/mikefarah/yq)** [![GitHub stars](https://img.shields.io/github/stars/mikefarah/yq?style=social&color=white)](https://github.com/mikefarah/yq/stargazers)  
+22. **[mikefarah/yq](https://github.com/mikefarah/yq)** [![GitHub_Stars](https://img.shields.io/github/stars/mikefarah/yq?style=social&color=white)](https://github.com/mikefarah/yq/stargazers)  
     *Portable command-line YAML, JSON, XML, CSV, TOML, and properties processor built on Go for deep document queries and mutations.* 📑
 
-23. **[XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)** [![GitHub stars](https://img.shields.io/github/stars/XAMPPRocky/tokei?style=social&color=white)](https://github.com/XAMPPRocky/tokei/stargazers)  
+23. **[XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)** [![GitHub_Stars](https://img.shields.io/github/stars/XAMPPRocky/tokei?style=social&color=white)](https://github.com/XAMPPRocky/tokei/stargazers)  
     *Blazing-fast CLI program that counts lines of code, comments, blanks, and language breakdowns across millions of files in seconds.* 📊
 
-24. **[darrenburns/posting](https://github.com/darrenburns/posting)** [![GitHub stars](https://img.shields.io/github/stars/darrenburns/posting?style=social&color=white)](https://github.com/darrenburns/posting/stargazers)  
+24. **[darrenburns/posting](https://github.com/darrenburns/posting)** [![GitHub_Stars](https://img.shields.io/github/stars/darrenburns/posting?style=social&color=white)](https://github.com/darrenburns/posting/stargazers)  
     *Modern terminal-based HTTP/API client with keyboard-driven UI, request collections, and variable environments inside the shell.* 📬
 
-25. **[iib0011/omni-tools](https://github.com/iib0011/omni-tools)** [![GitHub stars](https://img.shields.io/github/stars/iib0011/omni-tools?style=social&color=white)](https://github.com/iib0011/omni-tools/stargazers)  
+25. **[iib0011/omni-tools](https://github.com/iib0011/omni-tools)** [![GitHub_Stars](https://img.shields.io/github/stars/iib0011/omni-tools?style=social&color=white)](https://github.com/iib0011/omni-tools/stargazers)  
     *Self-hosted open-source collection of web-based utilities for image, PDF, and code transforms running on private infrastructure.* 🗂️
 
-26. **[chmln/sd](https://github.com/chmln/sd)** [![GitHub stars](https://img.shields.io/github/stars/chmln/sd?style=social&color=white)](https://github.com/chmln/sd/stargazers)  
+26. **[chmln/sd](https://github.com/chmln/sd)** [![GitHub_Stars](https://img.shields.io/github/stars/chmln/sd?style=social&color=white)](https://github.com/chmln/sd/stargazers)  
     *Intuitive find-and-replace CLI tool and modern `sed` alternative with standard regex syntax and multi-line matching.* ✂️
 
-27. **[tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer)** [![GitHub stars](https://img.shields.io/github/stars/tealdeer-rs/tealdeer?style=social&color=white)](https://github.com/tealdeer-rs/tealdeer/stargazers)  
+27. **[tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer)** [![GitHub_Stars](https://img.shields.io/github/stars/tealdeer-rs/tealdeer?style=social&color=white)](https://github.com/tealdeer-rs/tealdeer/stargazers)  
     *Ultra-fast implementation of `tldr` command-line cheatsheets written in Rust with local caching and colored syntax highlighting.* 🦌
 
-28. **[dundee/gdu](https://github.com/dundee/gdu)** [![GitHub stars](https://img.shields.io/github/stars/dundee/gdu?style=social&color=white)](https://github.com/dundee/gdu/stargazers)  
+28. **[dundee/gdu](https://github.com/dundee/gdu)** [![GitHub_Stars](https://img.shields.io/github/stars/dundee/gdu?style=social&color=white)](https://github.com/dundee/gdu/stargazers)  
     *Fast disk usage analyzer with an interactive console interface written in Go, specifically optimized for SSDs and large drive trees.* 💾
 
-29. **[PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)** [![GitHub stars](https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=social&color=white)](https://github.com/PaulJuliusMartinez/jless/stargazers)  
+29. **[PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)** [![GitHub_Stars](https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=social&color=white)](https://github.com/PaulJuliusMartinez/jless/stargazers)  
     *Command-line JSON viewer designed for reading, exploring, and navigating large JSON payloads with vim-like navigation.* 🔬
 
-30. **[IvanMathy/Boop](https://github.com/IvanMathy/Boop)** [![GitHub stars](https://img.shields.io/github/stars/IvanMathy/Boop?style=social&color=white)](https://github.com/IvanMathy/Boop/stargazers)  
+30. **[IvanMathy/Boop](https://github.com/IvanMathy/Boop)** [![GitHub_Stars](https://img.shields.io/github/stars/IvanMathy/Boop?style=social&color=white)](https://github.com/IvanMathy/Boop/stargazers)  
     *Scriptable scratchpad for developers on macOS for instant client-side text conversions, formatting, and custom JavaScript scripts.* 🧼
 
 ---
